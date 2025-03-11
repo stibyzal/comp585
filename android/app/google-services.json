@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36214887046",
+    "project_id": "stockappcomp585",
+    "storage_bucket": "stockappcomp585.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36214887046:android:67ef58142cb2ad2aaa7707",
+        "android_client_info": {
+          "package_name": "com.example.stockappflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVgPzMly_rBgmKXgFYHeAb34fFnjBq8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
