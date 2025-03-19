@@ -1,6 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
-import 'package:wealth_wise/stocks.dart';
+//import 'package:wealth_wise/stocks.dart';
+import 'package:comp585/stocks.dart';
 import 'package:http/http.dart' as http;
 void main() {
   runApp(const MyApp());
